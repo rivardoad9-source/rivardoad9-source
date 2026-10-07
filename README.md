@@ -18,17 +18,12 @@ I build and operate AI-agent automations for finance and crypto/Web3 market moni
 
 | Project | What it is | Stack |
 |---|---|---|
-| [rivardo-portfolio](https://github.com/rivardoad9-source/rivardo-portfolio) | Portfolio site (the one you're reading about) | HTML/CSS, GitHub Pages |
+| [rivardo-portfolio](https://github.com/rivardoad9-source/rivardo-portfolio) | Portfolio site, live on GitHub Pages | HTML/CSS, GitHub Pages |
+| [FlowMetrix](https://github.com/rivardoad9-source/trading-crypto-quant) | Solana Meteora DLMM liquidity screener + zero-capital paper-trading engine with walk-forward backtest harness | TypeScript, Node |
+| [MacroAI (NewsAgent)](https://github.com/rivardoad9-source/NewsAgent) | Automated US macro release monitor (FOMC, CPI, NFP, GDP) producing an objective position bias | Python, Telegram Bot API |
+| [Dompet](https://github.com/rivardoad9-source/dompet-dashboard) | Mobile-first personal finance dashboard (PWA): transactions, budgets, savings targets | Next.js, TypeScript |
 | [Re-Bites](https://github.com/rivardoad9-source/Rebites) | Landing page + realtime POS & sales dashboard for a food brand | Next.js, TypeScript, Google Sheets |
 | [indonesia-industry-report-2026-2031](https://github.com/rivardoad9-source/indonesia-industry-report-2026-2031) | Indonesia industry outlook research report (HTML + PDF) | Research, HTML |
-
-**Private work in progress**
-
-| Project | What it is | Stack |
-|---|---|---|
-| FlowMetrix | Solana Meteora DLMM liquidity screener + zero-capital paper-trading engine with backtest harness | TypeScript, Node |
-| MacroAI (NewsAgent) | Automated US macro release monitor (FOMC, CPI, NFP, GDP) producing objective position bias | Python, Telegram Bot API |
-| Dompet | Mobile-first personal finance dashboard (PWA): transactions, budgets, savings targets | Next.js, TypeScript |
 
 ### Education
 
