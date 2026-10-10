@@ -4,7 +4,7 @@
 
 Bekasi, Indonesia · [rivardo.ad9@gmail.com](mailto:rivardo.ad9@gmail.com) · [Portfolio](https://rivardoad9-source.github.io/rivardo-portfolio/) · Instagram [@rvo.d](https://instagram.com/rvo.d)
 
-I build and operate AI-agent systems end to end: scheduled pipelines that collect data, check conditions, act, and report only when something actually changes. Accounting foundation from SMK, now studying Digital Business at Universitas Bunda Mulia. Open to remote internships and collaborations in Web3, fintech, and AI automation.
+I build (with AI coding agents) and operate automation systems end to end: scheduled pipelines that collect data, check conditions, act, and report only when something actually changes. Accounting foundation from SMK, now studying Digital Business at Universitas Bunda Mulia. Open to remote internships and collaborations in Web3, fintech, and AI automation.
 
 ---
 
@@ -15,6 +15,8 @@ I build and operate AI-agent systems end to end: scheduled pipelines that collec
 - Studying Web3, fintech, and AI agent tooling in public through these repositories.
 
 ### Selected projects
+
+<sub>Everything below was built with AI coding agents (Claude Code, Hermes Agent) under my direction: I set the requirements, test the behaviour, and operate the systems. I direct and test the build rather than writing code from scratch.</sub>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -32,11 +34,11 @@ I build and operate AI-agent systems end to end: scheduled pipelines that collec
 - **On-chain & market monitoring** — wallet and token activity tracking, DeFi liquidity position economics, macro-event monitoring with change-gated alerts.
 - **Small-business operations** — turning messy chat traffic into structured orders and records, with owner approval kept in the loop wherever money is involved.
 - **Finance & accounting** — Accurate and MYOB, invoicing, delivery notes, tax-reporting document filing, financial modelling coursework.
-- **Web dashboards** — Next.js apps for POS, realtime business metrics, and personal finance.
+- **Business dashboards** — POS, realtime sales metrics and personal-finance dashboards, specified and tested by me and built with AI coding agents.
 
 ### Skills
 
-`Python` `TypeScript / Node.js` `Next.js` `SQLite` `REST APIs & webhooks` `Telegram Bot API` `WhatsApp Cloud API` `Git / GitHub` `Hermes Agent` `Claude Code` `Accurate` `MYOB` `Excel`
+`Hermes Agent` `Claude Code` `AI coding agents` `Git / GitHub` `GitHub API & webhooks` `Telegram Bot API` `WhatsApp Cloud API` `Accurate` `MYOB` `Excel` `SOP discipline` `Research & documentation`
 
 ### Education
 
