@@ -1,18 +1,25 @@
 # Rivardo
 
-**Digital Business student · AI-agent automation for finance, crypto/Web3 and small-business operations**
+**AI Implementation & Automation — finance & accounting operations**
 
 Bekasi, Indonesia · [rivardo.ad9@gmail.com](mailto:rivardo.ad9@gmail.com) · [Portfolio](https://rivardoad9-source.github.io/rivardo-portfolio/) · Instagram [@rvo.d](https://instagram.com/rvo.d)
 
-I build (with AI coding agents) and operate automation systems end to end: scheduled pipelines that collect data, check conditions, act, and report only when something actually changes. Accounting foundation from SMK, now studying Digital Business at Universitas Bunda Mulia. Open to remote internships and collaborations in Web3, fintech, and AI automation.
+Digital Business student at Universitas Bunda Mulia with an accounting foundation from SMK. I take a manual finance or back-office process, map how it actually runs, then implement and operate the system that replaces it — requirements, build (with AI coding agents under my direction), test, handover, and the measured change afterwards. Accounting systems (Accurate, MYOB) on one side, AI automation tooling on the other.
 
 ---
+
+### How I implement
+
+1. **Map the process** — sit with the person doing the work, write down every step and every exception.
+2. **Specify** — turn it into requirements, including the approval points where money or data changes hands.
+3. **Build** — with AI coding agents under my direction: I set the requirements and review the behaviour, rather than writing every line myself.
+4. **Test** — scenario tests before anyone depends on it (Sistem Rapel: 25/25 local scenarios passing).
+5. **Hand over and operate** — documented rules, backups before any config change, and the owner stays in the loop on anything that touches money.
 
 ### Now
 
 - Building **Sistem Rapel** — customer-service and order-recording automation for small businesses (warung, catering, laundry, online shops): one logic core, two channel adapters (Telegram, WhatsApp), deterministic rules for the majority of messages plus a learning loop that turns unanswered chats into owner-approved rules.
 - Exploring the Solana/Web3 builder ecosystem through bounties, hackathons, and community work.
-- Studying Web3, fintech, and AI agent tooling in public through these repositories.
 
 ### Selected projects
 
@@ -21,7 +28,7 @@ I build (with AI coding agents) and operate automation systems end to end: sched
 | Project | What it is | Stack |
 |---|---|---|
 | **Sistem Rapel** (private) | Customer-service bot for small businesses: order capture, shipping rules, dedupe, escalating alerts, and a learning loop where failed chats become proposed rules that the owner approves before they go live. 25/25 local test scenarios passing. Demo available on request. | Python, SQLite, Telegram Bot API, WhatsApp Cloud API |
-| [FlowMetrix](https://github.com/rivardoad9-source/trading-crypto-quant) | Solana Meteora DLMM liquidity screener and automated LP engine that ran live with real capital: 8 positions opened and closed on-chain, +$26.64 realised on $288 starting capital in the engine's own ledger. Position sizing and guard logic are config-driven, not hardcoded. Stopped 22 Sep 2026, capital withdrawn. | TypeScript, Node |
+| [FlowMetrix](https://github.com/rivardoad9-source/trading-crypto-quant) | Solana Meteora DLMM liquidity screener and automated LP engine that ran live with real capital: 8 positions opened and closed on-chain, +$26.64 realised on $288 starting capital in the engine's own ledger. Position sizing and guard logic is config-driven, not hardcoded. Stopped 22 Sep 2026, capital withdrawn. | TypeScript, Node |
 | [MacroAI (NewsAgent)](https://github.com/rivardoad9-source/NewsAgent) | Automated US macro release monitor (FOMC, CPI, NFP, GDP) that converts releases into an objective position bias and pushes change-gated alerts. | Python, Telegram Bot API |
 | [Dompet](https://github.com/rivardoad9-source/dompet-dashboard) | Mobile-first personal finance dashboard (PWA): transactions, budgets, savings targets. | Next.js, TypeScript |
 | [Re-Bites](https://github.com/rivardoad9-source/Rebites) | Landing page plus realtime POS and sales dashboard for a food brand, with Google Sheets as the data layer. | Next.js, TypeScript, Google Sheets |
@@ -30,15 +37,16 @@ I build (with AI coding agents) and operate automation systems end to end: sched
 
 ### What I work on
 
-- **AI-agent automation** — running scheduled agent workflows (Hermes Agent, Claude Code) for data collection, condition checks, and reporting without notification spam.
-- **On-chain & market monitoring** — wallet and token activity tracking, DeFi liquidity position economics, macro-event monitoring with change-gated alerts.
+- **AI implementation** — requirements, integration, adoption and handover of automation into a business process, not a tool demo.
+- **AI automation** — running scheduled agent workflows (Hermes Agent, Claude Code) for data collection, condition checks, and reporting without notification spam.
+- **Finance & accounting processes** — Accurate and MYOB, invoicing, delivery notes, tax-reporting document filing, financial modelling coursework.
 - **Small-business operations** — turning messy chat traffic into structured orders and records, with owner approval kept in the loop wherever money is involved.
-- **Finance & accounting** — Accurate and MYOB, invoicing, delivery notes, tax-reporting document filing, financial modelling coursework.
+- **On-chain & market monitoring** — wallet and token activity tracking, DeFi liquidity position economics, macro-event monitoring with change-gated alerts.
 - **Business dashboards** — POS, realtime sales metrics and personal-finance dashboards, specified and tested by me and built with AI coding agents.
 
 ### Skills
 
-`Hermes Agent` `Claude Code` `AI coding agents` `Git / GitHub` `GitHub API & webhooks` `Telegram Bot API` `WhatsApp Cloud API` `Accurate` `MYOB` `Excel` `SOP discipline` `Research & documentation`
+`AI implementation` `requirements & testing` `handover & SOP documentation` `Hermes Agent` `Claude Code` `AI coding agents` `Git / GitHub` `GitHub API & webhooks` `Telegram Bot API` `WhatsApp Cloud API` `Accurate` `MYOB` `Excel` `client communication` `Research & documentation`
 
 ### Education
 
@@ -47,4 +55,4 @@ I build (with AI coding agents) and operate automation systems end to end: sched
 
 ---
 
-<sub>Open to remote internships in Web3, fintech, or AI automation. Reach me at rivardo.ad9@gmail.com.</sub>
+<sub>Open to remote internships in fintech, accounting-tech or Web3 — in AI implementation and automation roles. Reach me at rivardo.ad9@gmail.com.</sub>
